@@ -5,6 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=M7T5M3P&icon=0&color=0)](https://visitcount.itsvg.in)
 [![GitHub M7T5M3P](https://img.shields.io/github/followers/M7T5M3P?label=follow&style=social)](https://github.com/M7T5M3P)
+[![wakatime](https://wakatime.com/badge/user/e19e031d-6aee-4565-9927-0e5da2800471/project/7e7dfdb7-7714-43b3-897c-c8bea836ea59.svg)](https://wakatime.com/badge/user/e19e031d-6aee-4565-9927-0e5da2800471/project/7e7dfdb7-7714-43b3-897c-c8bea836ea59)
 
 ---
 
