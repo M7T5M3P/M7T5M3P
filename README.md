@@ -71,7 +71,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mathys-t-5057aa220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathys thévenot" height="30" width="40" /></a>
-<a href="https://www.root-me.org/Mathys-T?lang=fr#66fe0b0ef62c88588f7ecda1709869f7" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.root-me.org%2F%3Flang%3Den&psig=AOvVaw3BH7K6NqxDB0gPjMelc7fM&ust=1741205103158000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNik486c8YsDFQAAAAAdAAAAABAE" alt="mathys" height="30" width="40" /></a>
+<a href="https://www.root-me.org/Mathys-T?lang=fr#66fe0b0ef62c88588f7ecda1709869f7" target="blank"><img align="center" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="mathys" height="30" width="40" /></a>
 <a href="https://www.youtube.com/watch?v=HhoATZ1Imtw&list=RDS_xH7noaqTA&index=5" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/91691748?v=4" alt="IMAGE ALT TEXT HERE" width="40" height="40" /></a>
 </p>
 
